@@ -62,4 +62,4 @@ For full examples, refer to the `prompts.txt` file in the repository.
 3. Test the system with your own prompts or use the examples from `prompts.txt`.
 
 
-- Developed by iSynergy TechSys Pvt. Ltd.
+Developed by iSynergy TechSys Pvt. Ltd.
