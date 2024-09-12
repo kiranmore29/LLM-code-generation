@@ -1,0 +1,8 @@
+prompt1 = "Generate PySpark code in Databricks that reads a Parquet file from /mnt/data/sample.parquet, groups by the 'Region' column, and returns the total sales in descending order."
+prompt2 = "Generate a SQL query that reads from the sales_data table, filters rows where sales > 1000, groups by 'product_id', and returns the total count of each product in Snowflake."
+prompt3 = "Generate PySpark code in AWS Glue that reads a CSV file from s3://bucket-name/data.csv, filters rows where status='Active', performs an aggregation to sum the amount column, and groups by the 'user_id' column."
+prompt4 = "Generate a SQL query in Microsoft SQL Server that reads from a table employee_data, groups by 'department', and calculates the average salary. Return the result sorted by department."
+prompt5 = "Generate a SQL query in Google BigQuery to read from the customer_purchases table, filters purchases made in the last 30 days, groups by 'customer_id', and calculates the total spent by each customer."
+prompt6 = "Generate a SQL query in Azure Synapse Analytics that reads from the transactions table, filters rows where transaction_date >= '2023-01-01', groups by 'store_id', and aggregates the total sales."
+prompt7 = "Generate Python code using Pandas to read a CSV file from C:\\data\\customers.csv, filter rows where the 'age' is greater than 30, group by 'city', and return the average income in each city."
+prompt8 = "Generate PySpark code that reads a TSV file from /data/employees.tsv, filters out rows where the 'salary' is less than 50000, groups by 'department', and calculates the maximum salary in each department."
